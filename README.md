@@ -1,3 +1,8 @@
 Туркунов Дмитрий - Junior QA Engineer
 ====
-https://img.shields.io/badge/junior-QA-orange
+{
+  "schemaVersion": 1,
+  "label": "hello",
+  "message": "sweet world",
+  "color": "orange"
+}
