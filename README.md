@@ -1,3 +1,3 @@
 Туркунов Дмитрий - Junior QA Engineer
 ====
-[QA](<img alt="Ansible Quality Score" src="https://img.shields.io/ansible/quality/12457?color=gs&label=rts&logo=fgdsw&logoColor=2ta">)
+[<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>]
