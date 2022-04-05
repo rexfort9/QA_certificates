@@ -1,3 +1,3 @@
 Туркунов Дмитрий - Junior QA Engineer
 ====
-[mybage1](https://img.shields.io/badge/junior-QA-orange)
+[![]()](https://gitter.im/guodongxiaren/README?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
