@@ -22,3 +22,4 @@
 - опыт работы в `Sublime Text`, `Confluence`, `Jira` и `Trello`;
 - практические навыки написания чек-листов и тест-кейсов;
 - базовые знания `Selenium` и `SQL`.
+[Социальная сеть для блогеров](https://github.com/bezyakina/my-django-blog)
