@@ -19,7 +19,7 @@
 
 Считаю эффективным подспорьем `hard-skills`:
 - уверенные навыки работы с windows (шорткаты, cmd, компиляция, файловые системы); 
-- опыт работы в `Sublime Text`, `Confluence`, `Jira` и `Trello`;
+- опыт работы в `Confluence`, `Jira` и `Trello`;
 - практические навыки написания чек-листов и тест-кейсов;
 - базовые знания `Selenium` и `SQL`.
 [Python web-тест](https://github.com/rexfort9/Testtask_search)
