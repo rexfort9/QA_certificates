@@ -21,6 +21,6 @@
 Считаю эффективным подспорьем `hard-skills`:
 - уверенные навыки работы с windows (шорткаты, cmd, компиляция, файловые системы); 
 - опыт работы в [Confluence](https://fon9.atlassian.net/wiki/spaces/PS/pages/24412161), [Jira](https://trello.com/b/ua1bwqzA/shades-of-justice) и [Unreal Engine 4](https://github.com/rexfort9/Turkunov_DE_0512);
-- практические навыки написания чек-листов и тест-кейсов;
+- практические навыки написания [чек-листов](https://github.com/rexfort9/portfolio_QA/blob/main/%D0%A7%D0%B5%D0%BA-%D0%BB%D0%B8%D1%81%D1%82%20%E2%80%9CTEAMLEAD%E2%80%9D.pdf), и [тест-кейсов](https://github.com/rexfort9/portfolio_QA/blob/main/%D0%A7%D0%B5%D0%BA-%D0%BB%D0%B8%D1%81%D1%82%20%E2%80%9CTEAMLEAD%E2%80%9D.pdf);
 - базовые знания `Selenium` и `SQL`.
 [Python web-тест](https://github.com/rexfort9/Testtask_search)
